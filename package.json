@@ -16,10 +16,7 @@
     "react-native-gesture-handler": "^1.4.1",
     "react-native-reanimated": "^1.2.0",
     "react-native-screens": "^1.0.0-alpha.23",
-<<<<<<< HEAD
-=======
     "react-native-svg": "^9.9.5",
->>>>>>> 500dc90f3ff68d92aaba4a6e9059800399e7e527
     "react-native-vector-icons": "^6.6.0",
     "react-navigation": "^4.0.10",
     "react-navigation-stack": "^1.9.0"
