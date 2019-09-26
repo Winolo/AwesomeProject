@@ -62,3 +62,6 @@ buck-out/
 
 .vscode/
 .project
+.settings
+.classpath
+.project
