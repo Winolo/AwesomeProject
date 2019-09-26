@@ -180,10 +180,7 @@ android {
 
 dependencies {
     implementation project(':react-native-vector-icons')
-<<<<<<< HEAD
-=======
     implementation project(':react-native-svg')
->>>>>>> 500dc90f3ff68d92aaba4a6e9059800399e7e527
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation "com.facebook.react:react-native:+"  // From node_modules
 
