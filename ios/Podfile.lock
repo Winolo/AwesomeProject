@@ -219,11 +219,11 @@ PODS:
     - ReactCommon/jscallinvoker (= 0.61.1)
   - RNGestureHandler (1.4.1):
     - React
-  - RNReanimated (1.3.0):
+  - RNReanimated (1.2.0):
     - React
   - RNScreens (1.0.0-alpha.23):
     - React
-  - RNSVG (9.9.9):
+  - RNSVG (9.9.5):
     - React
   - RNVectorIcons (6.6.0):
     - React
@@ -357,12 +357,12 @@ SPEC CHECKSUMS:
   React-RCTVibration: 8be61459e3749d1fb02cf414edd05b3007622882
   ReactCommon: 4fba5be89efdf0b5720e0adb3d8d7edf6e532db0
   RNGestureHandler: 4cb47a93019c1a201df2644413a0a1569a51c8aa
-  RNReanimated: 6abbbae2e5e72609d85aabd92a982a94566885f1
+  RNReanimated: 1b52415c4302f198cb581282a0166690bad62c43
   RNScreens: f28b48b8345f2f5f39ed6195518291515032a788
-  RNSVG: b7e8745a87c046386569eecb437b3040cc6a7954
+  RNSVG: f578799dd236be1ff32c55306df3e01711d428e5
   RNVectorIcons: 0bb4def82230be1333ddaeee9fcba45f0b288ed4
   Yoga: d8c572ddec8d05b7dba08e4e5f1924004a177078
 
-PODFILE CHECKSUM: db31bde649b46109c6d708477d1ac0b5f4c1fe92
+PODFILE CHECKSUM: ade51f84b64e3bc482e8b040bcb622b72e4f473a
 
 COCOAPODS: 1.8.1
